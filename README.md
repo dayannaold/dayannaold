@@ -1,8 +1,13 @@
-- 👋 Hi there, I’m Dayanna, 27yo and I have a degree in Modern languages (Portuguese and English) and Early Childhood Education. 
-- 😍 I love languages and human development, as well as learning and teaching, I'm studying by myself before starting a new college or bootcamp, 
-also I'm motivated to learn so in the future I can offer an opportunity that I did not have: learn how to code as a children and teenager.
-- 🇧🇷 ✈️ :us: I'm from Brazil but I live in the USA, San Francisco - California 
-- 🌱 I’m currently learning html, css, js, python, git and algorithm.
-- 💞️ I’m looking to collaborate on git repository, friends and increase my knowledge.
-- 📫 My user is just one to all social medias that I have, just search @dayannaold
-- 📧 dayannaold@gmail.com
+👽 Hello Alien, AI or probably just human. My name is Dayanna, I'm 28 and I have a degree in Modern languages and Early Childhood
+
+🌱 Currently learning front-end but looking to be fullstack when I'm ready
+
+💞️ Native Portuguese, Advanced English, Basic understanding in Spanish and French
+
+🇧🇷 ✈️ 🇺🇲 I was born in Brazil but I live in San Francisco - California 
+
+😍 I love languages and human development, as well as learning and teaching, so I'm venturing self-learning the language that changes and grows most and I dream to give the opportunity to others that I didn't have: learning programming concepts when youngster
+
+📫 Looking for networking and job opportunities
+
+📧 dayannaold@gmail.com
