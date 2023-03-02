@@ -1,4 +1,4 @@
-👽 Hello Alien, AI or probably just human. My name is Dayanna, I'm 28 and I have a degree in Modern languages and Early Childhood
+👽 Hello Alien, AI or probably just human. My name is Dayanna as you can read
 
 🌱 Currently learning front-end but looking to be fullstack when I'm ready
 
@@ -8,6 +8,6 @@
 
 😍 I love languages and human development, as well as learning and teaching, so I'm venturing self-learning the language that changes and grows most and I dream to give the opportunity to others that I didn't have: learning programming concepts when youngster
 
-📫 Looking for networking and job opportunities
+📫 Looking for networking and contribute to projects, so let's connect
 
-📧 dayannaold@gmail.com
+[My Linkedin](https://www.linkedin.com/in/dayanna-de-oliveira/) 📧  dayannaold@gmail.com
