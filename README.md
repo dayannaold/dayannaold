@@ -6,7 +6,7 @@
 
 🇧🇷 ✈️ 🇺🇲 I was born in Brazil but I live in San Francisco - California 
 
-😍 I love languages and human development, as well as learning and teaching, so I'm venturing self-learning the language that changes and grows most and I dream to give the opportunity to others that I didn't have: learning programming concepts when youngster
+😍 I love learning and beside tech and games I'm into coffe, going to the gym, reading, human development, languages, other cultures and watching videos about physics, quantum physics and black holes before I fall asleep
 
 📫 Looking for networking and contribute to projects, so let's connect
 
