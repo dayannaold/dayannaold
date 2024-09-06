@@ -1,5 +1,6 @@
 
 🇧🇷🇺🇲 Brazilian Californian girl
+
 🌱 I love learning and beside tech and games I'm into coffe, going to the gym, reading, human development, languages and travel abroad 
 
 [![Linkedin Badge](https://img.shields.io/badge/-dayannaold-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayanna-de-oliveira//)](https://www.linkedin.com/in/dayanna-de-oliveira//)
